@@ -51,8 +51,9 @@ DineFinder is a full-stack web application designed to help users discover top r
 <img width="1914" height="1000" alt="Screenshot 2026-01-14 141451" src="https://github.com/user-attachments/assets/5e2f94f6-fdb8-44c5-a3c9-fd166c13acea" />
 --
 <img width="1917" height="1002" alt="Screenshot 2026-01-14 141513" src="https://github.com/user-attachments/assets/28a6ee34-8ca7-4112-a4b3-a7de599f67d5" />
----
+--
 
+---
 ## Installation & Setup
 
 Follow these steps to set up the project locally.
