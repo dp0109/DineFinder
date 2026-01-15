@@ -42,16 +42,15 @@ DineFinder is a full-stack web application designed to help users discover top r
 ---
 ## GUI
 
-<img width="1913" height="1001" alt="Screenshot 2026-01-14 141351" src="https://github.com/user-attachments/assets/847491f1-179e-4809-a6ff-70e8e013db76" />
+<img width="1915" height="1003" alt="Screenshot 2026-01-14 141337" src="https://github.com/user-attachments/assets/d39edbfb-1acd-4dcb-b7d6-642740d7e0d1" />
 --
-<img width="1915" height="1003" alt="Screenshot 2026-01-14 141337" src="https://github.com/user-attachments/assets/71c4c859-18bd-438f-8f95-ba6b3e73f860" />
+<img width="1913" height="1001" alt="Screenshot 2026-01-14 141351" src="https://github.com/user-attachments/assets/4872fe42-16ea-4873-a65e-ba56726f8541" />
 --
-<img width="1917" height="1000" alt="Screenshot 2026-01-14 141422" src="https://github.com/user-attachments/assets/21256c74-fc14-48f5-b5c2-ace711877147" />
+<img width="1917" height="1000" alt="Screenshot 2026-01-14 141422" src="https://github.com/user-attachments/assets/dea20eae-ef0d-4103-8dbe-2007b35bbcb2" />
 --
-<img width="1914" height="1000" alt="Screenshot 2026-01-14 141451" src="https://github.com/user-attachments/assets/892b1a89-192d-438a-bd55-831142022b1e" />
+<img width="1914" height="1000" alt="Screenshot 2026-01-14 141451" src="https://github.com/user-attachments/assets/5e2f94f6-fdb8-44c5-a3c9-fd166c13acea" />
 --
-<img width="1917" height="1002" alt="Screenshot 2026-01-14 141513" src="https://github.com/user-attachments/assets/82c4f715-8a4f-40de-bf00-7d79cdd6266b" />
-
+<img width="1917" height="1002" alt="Screenshot 2026-01-14 141513" src="https://github.com/user-attachments/assets/28a6ee34-8ca7-4112-a4b3-a7de599f67d5" />
 ---
 ## Installation & Setup
 
